@@ -1,0 +1,16 @@
+img{
+    height: 400px;
+    width: 320px;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+input[type="submit"]{
+    margin-top: 25px;
+    background: black;
+    color: white;
+    height: 30px;
+    width: 70px;
+}
+div{
+    margin-left:590px;
+}
